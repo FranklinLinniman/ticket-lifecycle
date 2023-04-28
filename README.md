@@ -47,9 +47,9 @@ Ticket in progress:
 -Ensure that you have logged in as the agent that the ticket is assigned to ->  
 Navigate to ticket -> Write update message -> Post
 </p>
-
+</p>
 <img src="https://i.imgur.com/Ghe5Eg5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+</P>
 -Troubleshoot issue -> Resolve issue -> Respond with update -> Post 
 </p>
 <br />
