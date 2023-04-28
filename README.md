@@ -28,25 +28,38 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EzlV0vA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+Create a new ticket:  
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+-Ensure that you have logged in as one of the users that you created -> 
+Agent panel -> New ticket -> add 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ovn9ql8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ticket in progress:
+<p>
+-Ensure that you have logged in as the agent that the ticket is assigned to ->  
+Navigate to ticket -> Write update message -> Post
+</p>
+
+<img src="https://i.imgur.com/Ghe5Eg5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+-Troubleshoot issue -> Resolve issue -> Respond with update -> Post 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/tQ3ICYz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Closing a ticket:
+<p>
+-Change ticket status to “resolved” -> Navigate to ticket -> Double check that status is marked “resolved” 
 </p>
 <br />
