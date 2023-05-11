@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/EzlV0vA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aYLlExJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create a new ticket:  
@@ -39,7 +39,7 @@ Agent panel -> New ticket -> add
 <br />
 
 <p>
-<img src="https://i.imgur.com/Ovn9ql8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bBUWcX1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Ticket in progress:
