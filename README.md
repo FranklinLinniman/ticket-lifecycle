@@ -67,7 +67,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/FAbvwuF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </P>
 4. Triaging a ticket
-5. <br> 
+<br> 
 -provide updates as you continue to troubleshoot the ticket
 <br>
 -mark tickets as “resolved” when finished 
