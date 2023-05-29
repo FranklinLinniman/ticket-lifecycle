@@ -28,38 +28,47 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/aYLlExJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Vk2wKOQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a new ticket:  
-<p>
--Ensure that you have logged in as one of the users that you created -> 
-Agent panel -> New ticket -> add 
+1. Create a New Ticket
+  <br>
+-Navigate to the agent panel in osTicket
+  <br>
+-click “new ticket” under the “tickets” tab 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/bBUWcX1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uBRHYjY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Ticket in progress:
-<p>
--Ensure that you have logged in as the agent that the ticket is assigned to ->  
-Navigate to ticket -> Write update message -> Post
+  2. Ticket Information
+  <br>
+-Fill out the department, SLA, and other required information of your new ticket 
+ </p>
+<br /> 
+  
 </p>
 </p>
-<img src="https://i.imgur.com/Ghe5Eg5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/skcgaM0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9Cf9lHl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </P>
--Troubleshoot issue -> Resolve issue -> Respond with update -> Post 
-</p>
+3. User Credentials
+ <br>
+-Log in as the user that the ticket was assigned to
+<br>
+-Navigate to the newly created ticket 
 <br />
 
-<p>
-<img src="https://i.imgur.com/tQ3ICYz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Closing a ticket:
-<p>
--Change ticket status to “resolved” -> Navigate to ticket -> Double check that status is marked “resolved” 
 </p>
-<br />
+<img src="https://i.imgur.com/BSf5ZaC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FAbvwuF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</P>
+4. Triaging a ticket
+5. <br> 
+-provide updates as you continue to troubleshoot the ticket
+<br>
+-mark tickets as “resolved” when finished 
+
